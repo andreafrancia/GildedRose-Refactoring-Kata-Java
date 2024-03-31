@@ -20,3 +20,4 @@ bin/
 .gradle
 /build/
 
+/snapshots/run.txt
